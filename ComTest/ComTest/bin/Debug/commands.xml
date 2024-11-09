@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <string>AT+GMM</string>
+  <string>AT+GMR</string>
+  <string>AT+GSV</string>
+  <string>AT+GSN</string>
+  <string>AT+CPIN?</string>
+  <string>AT+CFUN?</string>
+  <string>AT+CSPN?</string>
+  <string>AT+CREG?</string>
+  <string>AT+COPS?</string>
+  <string>AT+CPAS</string>
+  <string>AT+CSQ</string>
+  <string>AT+CENG?</string>
+</ArrayOfString>
