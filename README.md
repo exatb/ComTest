@@ -20,4 +20,4 @@
 Все команды храняться в файле "commands.xml", при закрытии программы все изменения списка команд сохраняются. 
 Все события пишутся в лог файл "ComTest.log". 
 
-![Пример](https://github.com/exatb/ComTest/blob/main/Example.jpg)
+![Пример](https://github.com/exatb/ComTest/blob/main/Example.png)
